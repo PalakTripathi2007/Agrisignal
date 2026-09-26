@@ -1,0 +1,8 @@
+{
+  "name": "AgriSignal",
+  "description": "Smart Post-Harvest Decision Support & Local Market Intelligence Hub for Farmers and FPOs",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
